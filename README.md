@@ -1,2 +1,3 @@
 # CineMatch
-teste
+Buscar no chat Estrutura de Arquivos do Projeto
+
